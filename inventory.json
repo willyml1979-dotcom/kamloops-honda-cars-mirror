@@ -1,6 +1,6 @@
 {
   "dealership": "Kamloops Honda Cars",
-  "generated_at": "2026-10-18T19:01:31",
+  "generated_at": "2026-10-18T19:05:35",
   "vehicle_count": 155,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -1632,7 +1632,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/279d327b950d.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2026/honda/civic-sedan/kamloops/bc/71202661/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2026/honda/civic-sedan/kamloops/bc/71202661/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:30:15",
+      "last_verified": "2026-10-18T19:05:30",
       "price": 30820.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2463,7 +2463,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/2c75febcc584.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71470355/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71470355/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:28:10",
+      "last_verified": "2026-10-18T19:03:22",
       "price": 51850.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2475,7 +2475,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Honda CR-V Hybrid Touring AWD",
+      "name": "2027 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H91VH204792",
       "stock": "N18550I",
       "color": "White",
@@ -2483,7 +2483,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/ac67a18313a2.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71506195/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71506195/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:28:18",
+      "last_verified": "2026-10-18T19:03:32",
       "price": 53800.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2495,7 +2495,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Honda CR-V Hybrid Touring AWD",
+      "name": "2027 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H90VH205237",
       "stock": "N18552I",
       "color": "Red",
@@ -2503,7 +2503,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/c22358f8fe48.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71506197/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71506197/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:28:27",
+      "last_verified": "2026-10-18T19:03:41",
       "price": 53800.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2515,7 +2515,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Honda CR-V Hybrid Touring AWD",
+      "name": "2027 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H97VH204814",
       "stock": "N18551I",
       "color": "White",
@@ -2523,7 +2523,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/0e0ebfd2bd83.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71506200/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71506200/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:28:36",
+      "last_verified": "2026-10-18T19:03:50",
       "price": 53800.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2535,7 +2535,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Honda CR-V Hybrid Touring AWD",
+      "name": "2027 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H90VH204878",
       "stock": "N18549I",
       "color": "Black",
@@ -2543,7 +2543,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/6618b0d7c0ec.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71506201/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71506201/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:28:46",
+      "last_verified": "2026-10-18T19:04:00",
       "price": 53800.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2555,7 +2555,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Honda CR-V Hybrid EX-L AWD",
+      "name": "2027 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H78VH204836",
       "stock": "N18548I",
       "color": "White",
@@ -2563,7 +2563,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/7f47b1f294ad.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71506203/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v-hybrid/kamloops/bc/71506203/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:28:54",
+      "last_verified": "2026-10-18T19:04:09",
       "price": 51300.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2723,7 +2723,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/2f03f28bbae5.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v/kamloops/bc/71470352/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v/kamloops/bc/71470352/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:29:03",
+      "last_verified": "2026-10-18T19:04:19",
       "price": 42925.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2735,7 +2735,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Honda CR-V Sport AWD",
+      "name": "2027 Honda CR-V Sport",
       "vin": "2HKRS4H59VH102402",
       "stock": "N18545I",
       "color": "Grey",
@@ -2743,7 +2743,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/2350fc6acb2b.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v/kamloops/bc/71506194/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v/kamloops/bc/71506194/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:29:12",
+      "last_verified": "2026-10-18T19:04:28",
       "price": 45975.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2755,7 +2755,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Honda CR-V Sport AWD",
+      "name": "2027 Honda CR-V Sport",
       "vin": "2HKRS4H56VH102356",
       "stock": "N18544I",
       "color": "Grey",
@@ -2763,7 +2763,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/42d029148ea1.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v/kamloops/bc/71506198/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v/kamloops/bc/71506198/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:29:21",
+      "last_verified": "2026-10-18T19:04:37",
       "price": 45975.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2775,7 +2775,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Honda CR-V Sport AWD",
+      "name": "2027 Honda CR-V Sport | PENDING DEAL",
       "vin": "2HKRS4H56VH102289",
       "stock": "N18546I",
       "color": "Silver",
@@ -2783,7 +2783,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/3cc2e38be135.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v/kamloops/bc/71506202/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v/kamloops/bc/71506202/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:29:31",
+      "last_verified": "2026-10-18T19:04:46",
       "price": 45975.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2795,7 +2795,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Honda CR-V Sport AWD",
+      "name": "2027 Honda CR-V Sport | PENDING DEAL",
       "vin": "2HKRS4H59VH102321",
       "stock": "N18547I",
       "color": "Silver",
@@ -2803,7 +2803,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/efbfdf7ee894.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v/kamloops/bc/71506204/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/cr-v/kamloops/bc/71506204/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:29:39",
+      "last_verified": "2026-10-18T19:04:54",
       "price": 45975.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2903,7 +2903,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/6069b0bf68f2.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/hr-v/kamloops/bc/71266608/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/hr-v/kamloops/bc/71266608/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:29:47",
+      "last_verified": "2026-10-18T19:05:03",
       "price": 38950.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2935,7 +2935,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Honda HR-V Sport AWD",
+      "name": "2027 Honda HR-V Sport",
       "vin": "3CZRZ2H59VM108463",
       "stock": "N18542I",
       "color": "Black",
@@ -2943,7 +2943,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/897f53e63b61.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/hr-v/kamloops/bc/71506196/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/hr-v/kamloops/bc/71506196/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:29:57",
+      "last_verified": "2026-10-18T19:05:13",
       "price": 38400.0,
       "price_currency": "CAD",
       "odometer_km": 5,
@@ -2955,7 +2955,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Honda HR-V Sport AWD",
+      "name": "2027 Honda HR-V Sport",
       "vin": "3CZRZ2H58VM108485",
       "stock": "N18543I",
       "color": "Grey",
@@ -2963,7 +2963,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/450b8ce2844d.html",
       "source_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/hr-v/kamloops/bc/71506199/?sale_class=new",
       "dealer_url": "https://www.kamloopshonda.ca/vehicles/2027/honda/hr-v/kamloops/bc/71506199/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:30:06",
+      "last_verified": "2026-10-18T19:05:22",
       "price": 38400.0,
       "price_currency": "CAD",
       "odometer_km": 5,
