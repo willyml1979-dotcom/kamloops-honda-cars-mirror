@@ -1,6 +1,6 @@
 {
   "dealership": "Kamloops Honda Cars",
-  "generated_at": "2026-10-25T21:46:26",
+  "generated_at": "2026-10-26T06:35:54",
   "vehicle_count": 145,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1291,7 +1291,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 53800.0,
+      "price": 52850.0,
       "price_currency": "CAD"
     },
     {
