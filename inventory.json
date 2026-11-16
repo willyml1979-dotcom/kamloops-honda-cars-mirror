@@ -1,93 +1,53 @@
 {
   "dealership": "Kamloops Honda Cars",
-  "generated_at": "2026-10-26T06:35:54",
-  "vehicle_count": 145,
+  "generated_at": "2026-11-16T16:10:54",
+  "vehicle_count": 137,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2015 Honda CR-V Touring - REMOTE START | NAV | AWD",
-      "vin": "5J6RM4H92FL801262",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/748aa4b8ff90.html",
+      "name": "2015 Chevrolet Impala LT - CLAIM FREE | ONE OWNER | FWD",
+      "vin": "2G1125S31F9171592",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/056792295b15.html",
       "year": 2015,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 13595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Volvo S60 T5 Special Edition Premier - SUNROOF | AWD",
-      "vin": "YV1612TK5G2393602",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/bef1ec95dd4e.html",
-      "year": 2016,
-      "make": "Volvo",
-      "model": "S60",
-      "condition": "used",
-      "price": 14795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Infiniti QX60",
-      "vin": "5N1DL0MM3HC554483",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/3b81b3870a6f.html",
-      "year": 2017,
-      "make": "Infiniti",
-      "model": "QX60",
-      "condition": "used"
-    },
-    {
-      "name": "2018 Ford F-150 LARIAT - REMOTE START | NAV | 4X4",
-      "vin": "1FTEW1E59JFD64611",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/16f4484591c1.html",
-      "year": 2018,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 38595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Honda Civic Si Sedan Si - CLAIM FREE | MANUAL | FWD",
-      "vin": "2HGFC1E52JH200095",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/309f331f98b4.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Mazda CX-3 GS - CLAIM FREE | HEATED SEATS | AWD",
-      "vin": "JM1DKFC73J1306337",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/a747acb3fde0.html",
-      "year": 2018,
-      "make": "Mazda",
-      "model": "CX-3",
-      "condition": "used",
-      "price": 22995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Honda Civic Hatchback LX - MANUAL | HEATED SEATS | FWD",
-      "vin": "SHHFK7G35KU300102",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/953fec13c2e2.html",
-      "year": 2019,
-      "make": "Honda",
-      "model": "Civic",
+      "make": "Chevrolet",
+      "model": "Impala",
       "condition": "used",
       "price": 14995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Honda Civic Sedan",
+      "name": "2017 Nissan Rogue SV - REMOTE START | HEATED SEATS | AWD",
+      "vin": "5N1AT2MV7HC819686",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/e67ef367ca20.html",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 13895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Honda Pilot Touring - ONE OWNER | NAV | AWD",
+      "vin": "5FNYF6H96JB501498",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/f7403d560b14.html",
+      "year": 2018,
+      "make": "Honda",
+      "model": "Pilot",
+      "condition": "used",
+      "price": 33795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Honda Civic Sedan LX - CLAIM FREE | ONE OWNER | MANUAL",
       "vin": "2HGFC2E51KH025409",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/245df3a8ebb9.html",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/0bb70a54314a.html",
       "year": 2019,
       "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "price": 19817.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 Honda Odyssey EX-L - REMOTE START | 3RD-ROW | FWD",
@@ -101,14 +61,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Toyota RAV4 LE - HEATED SEATS | SMART DEVICE INTEGRATION | AWD",
-      "vin": "2T3B1RFV3KW014390",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/025694525508.html",
+      "name": "2019 Hyundai Tucson Ultimate - LOW KMS | REMOTE START | AWD",
+      "vin": "KM8J3CAL6KU025532",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/e872c73ebc98.html",
       "year": 2019,
-      "make": "Toyota",
-      "model": "RAV4",
+      "make": "Hyundai",
+      "model": "Tucson",
       "condition": "used",
-      "price": 27995.0,
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Hyundai Tucson Preferred - CLAIM FREE | HEATED SEATS | AWD",
+      "vin": "KM8J3CA43KU058240",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/5770db3fac12.html",
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 16995.0,
       "price_currency": "CAD"
     },
     {
@@ -134,24 +105,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 RAM 1500 Big Horn - CLAIM FREE | LOW KMS | ONE OWNER",
-      "vin": "1C6RRFFG4LN262770",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/1b1e1e322820.html",
-      "year": 2020,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used"
-    },
-    {
-      "name": "2020 Subaru Outback",
-      "vin": "4S4BTDAC1L3153114",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/5daadb4a3615.html",
-      "year": 2020,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used"
-    },
-    {
       "name": "2021 Ford Bronco Sport Outer Banks - REMOTE START | HEATED SEATS | 4X4",
       "vin": "3FMCR9C68MRA90586",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/9c19282d4af0.html",
@@ -159,7 +112,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 27795.0,
+      "price": 26487.0,
       "price_currency": "CAD"
     },
     {
@@ -170,29 +123,18 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 34995.0,
+      "price": 33995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Honda Civic Sedan EX - REMOTE START | SUNROOF | FWD",
-      "vin": "2HGFC2F79MH017397",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/199d9b7ce64f.html",
+      "name": "2021 Honda Civic Sedan LX - HEATED SEATS | BACKUP CAM | FWD",
+      "vin": "2HGFC2F52MH002643",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/27fcffe2ae97.html",
       "year": 2021,
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 25795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Kia Seltos SX Turbo - NAV | HEATED SEATS | AWD",
-      "vin": "KNDETCA28M7225486",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/64a352979f68.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 15495.0,
+      "price": 22495.0,
       "price_currency": "CAD"
     },
     {
@@ -204,28 +146,6 @@
       "model": "Pacifica",
       "condition": "used",
       "price": 26995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Escape SE - BACKUP CAM | BLUETOOTH | AWD",
-      "vin": "1FMCU9G67NUA52804",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/1529b3370d8b.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 16495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150 XLT - REMOTE START | HEATED SEATS | 4X4",
-      "vin": "1FTEW1EP5NKD62756",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/21aafb6ebdaa.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
@@ -247,18 +167,18 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 37995.0,
+      "price": 36895.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 Big Horn - REMOTE START | BACKUP CAM | 4X4",
-      "vin": "1C6RRFFGXNN347129",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/21fb97158bb9.html",
+      "name": "2022 Nissan Rogue Platinum - REMOTE START | NAV | AWD",
+      "vin": "JN8BT3DDXNW273597",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/e0e4b567f824.html",
       "year": 2022,
-      "make": "RAM",
-      "model": "1500",
+      "make": "Nissan",
+      "model": "Rogue",
       "condition": "used",
-      "price": 34395.0,
+      "price": 26395.0,
       "price_currency": "CAD"
     },
     {
@@ -278,18 +198,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 39995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chrysler Pacifica Touring L - REMOTE START | 3RD-ROW | AWD",
-      "vin": "2C4RC3BG4PR614947",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/306fb652935a.html",
-      "year": 2023,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used",
-      "price": 31295.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -304,6 +213,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Honda Civic Hatchback Sport - CLAIM FREE | ONE OWNER | FWD",
+      "vin": "19XFL1H88PE400942",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/790f58bfa207.html",
+      "year": 2023,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Honda CR-V Hybrid Touring - CLAIM FREE | ONE OWNER | AWD",
       "vin": "2HKRS6H9XPH202297",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/08cced18263d.html",
@@ -311,29 +231,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 37995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda CR-V Hybrid Touring - CLAIM FREE | REMOTE START | AWD",
-      "vin": "2HKRS6H96PH204810",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/f0181edcaaeb.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 45495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda CR-V EX-L - CLAIM FREE | REMOTE START | AWD",
-      "vin": "2HKRS4H72PH117456",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/6d5a3c94337b.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 33495.0,
+      "price": 36695.0,
       "price_currency": "CAD"
     },
     {
@@ -370,14 +268,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Tacoma TRD Sport - REMOTE START | HEATED SEATS | 4X4",
-      "vin": "3TYDZ5BN7PT023316",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/e972ede101c9.html",
+      "name": "2023 Toyota RAV4 LE - HEATED SEATS | BACKUP CAM | AWD",
+      "vin": "2T3B1RFV4PC352275",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/e2b5a25c54bf.html",
       "year": 2023,
       "make": "Toyota",
-      "model": "Tacoma",
+      "model": "RAV4",
       "condition": "used",
-      "price": 49899.0,
+      "price": 31595.0,
       "price_currency": "CAD"
     },
     {
@@ -388,7 +286,7 @@
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 50995.0,
+      "price": 49888.0,
       "price_currency": "CAD"
     },
     {
@@ -403,14 +301,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Edge ST Line - CLAIM FREE | ONE OWNER | AWD",
-      "vin": "2FMPK4J99RBB20352",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/133a429fc8bd.html",
+      "name": "2024 GMC Canyon Elevation -TOWING | SMART DEVICE INTEGRATION | 4X4",
+      "vin": "1GTP6BEK7R1150844",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/3b2445e4b51f.html",
       "year": 2024,
-      "make": "Ford",
-      "model": "Edge",
+      "make": "GMC",
+      "model": "Canyon",
       "condition": "used",
-      "price": 34495.0,
+      "price": 44995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 GMC Terrain SLE - REMOTE START | HEATED SEATS | AWD",
+      "vin": "3GKALTEG2RL348485",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/fd05bd5bab40.html",
+      "year": 2024,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "used",
+      "price": 27495.0,
       "price_currency": "CAD"
     },
     {
@@ -425,17 +334,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Venue Preferred - REMOTE START| HEATED SEATS | FWD",
-      "vin": "KMHRC8A39RU334650",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/3fb266e72034.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "used",
-      "price": 17695.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Mazda Mazda3 Sedan GT w/Turbo - REMOTE START | NAV | AWD",
       "vin": "JM1BPBDY0R1658148",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/5f4bcae6a858.html",
@@ -444,6 +342,17 @@
       "model": "Mazda3",
       "condition": "used",
       "price": 26895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Mitsubishi RVR SE - HEATED SEATS | BACKUP CAM | 4X4",
+      "vin": "JA4AJVAW8RU608477",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/0a8129594c40.html",
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "used",
+      "price": 22694.0,
       "price_currency": "CAD"
     },
     {
@@ -469,14 +378,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota Camry Sedan SE - REMOTE START | HEATED SEATS | FWD",
+      "name": "2024 Toyota Camry SE - REMOTE START | HEATED SEATS | FWD",
       "vin": "4T1G11AK9RU191291",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/a11a30946aaa.html",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/1689039f1493.html",
       "year": 2024,
       "make": "Toyota",
       "model": "Camry",
       "condition": "used",
-      "price": 29495.0,
+      "price": 27895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Toyota Corolla LE - CLAIM FREE | HEATED SEATS | FWD",
+      "vin": "5YFB4MDE0RP147299",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/b18582f427f8.html",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "used",
+      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
@@ -502,6 +422,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Volkswagen Jetta Sedan Comfortline - REMOTE START | HEATED SEATS | FWD",
+      "vin": "3VWSM7BU1RM054663",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/421cf98cf8be.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "used",
+      "price": 23495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Volkswagen Tiguan Comfortline - REMOTE START | HEATED SEATS | AWD",
+      "vin": "3VV2B7AX3RM127389",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/680eee99fff9.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 26995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Acura Integra Elite A-Spec - REMOTE START | SUNROOF | FWD",
       "vin": "19UDE4H69SA800510",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/897048946ddc.html",
@@ -509,7 +451,7 @@
       "make": "Acura",
       "model": "Integra",
       "condition": "used",
-      "price": 40995.0,
+      "price": 38689.0,
       "price_currency": "CAD"
     },
     {
@@ -520,7 +462,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 45995.0,
+      "price": 44887.0,
       "price_currency": "CAD"
     },
     {
@@ -532,6 +474,17 @@
       "model": "Trailblazer",
       "condition": "used",
       "price": 28694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Chrysler Pacifica Limited - REMOTE START | NAV | FWD",
+      "vin": "2C4RC1GG9SR560387",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/2b2ebd858f8f.html",
+      "year": 2025,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "used",
+      "price": 35695.0,
       "price_currency": "CAD"
     },
     {
@@ -557,47 +510,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda CR-V Sport - LOW KMS | ONE OWNER | AWD",
-      "vin": "2HKRS4H57SH105729",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/1c925631158b.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 37495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Pilot TrailSport - LOW KMS | REMOTE START | AWD",
-      "vin": "5FNYG1H61SB504168",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/a642306f6216.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "used",
-      "price": 52895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-5 GS - REMOTE START | HEATED SEATS | AWD",
-      "vin": "JM3KFBCL5S0743868",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/6f9ab926e5ea.html",
+      "name": "2025 Mazda CX-5 GS - REMOTE START | HEATED STEERING WHEEL | AWD",
+      "vin": "JM3KFBCL7S0744309",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/b4f24d0bce45.html",
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 31595.0,
+      "price": 33495.0,
       "price_currency": "CAD"
     },
     {
       "name": "2025 Mazda CX-70 MHEV GT - REMOTE START | NAV | AWD",
-      "vin": "JM3KJDHD4S1122045",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/0254c0939c1a.html",
+      "vin": "JM3KJDHD2S1122027",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/fbbd0f17f9f9.html",
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
       "condition": "used",
-      "price": 36995.0,
+      "price": 35954.0,
       "price_currency": "CAD"
     },
     {
@@ -623,14 +554,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Kicks Play SV - REMOTE START | HEATED SEATS | FWD",
-      "vin": "3N1CP5CV3SL488155",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/4c39939a8108.html",
+      "name": "2025 Mitsubishi Outlander ES - 3RD-ROW | HEATED SEATS | AWD",
+      "vin": "JA4J4UA82SZ626825",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/bfa6c00d9304.html",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "used",
+      "price": 28699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Rogue S - REMOTE START | HEATED STEERING WHEEL | AWD",
+      "vin": "JN8BT3AB5SW172322",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/81f96fe263c9.html",
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks",
+      "model": "Rogue",
       "condition": "used",
-      "price": 21686.0,
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -643,58 +585,25 @@
       "condition": "used"
     },
     {
-      "name": "2025 Volkswagen Atlas Comfortline - COOLED SEATS | 3RD-ROW SEAT | AWD",
-      "vin": "1V2LR2CAXSC549658",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/7b6565a9779a.html",
+      "name": "2025 Volkswagen Taos Comfortline - REMOTE START | HEATED SEATS | AWD",
+      "vin": "3VVUC7B28SM045608",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/f26faefece87.html",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Atlas",
+      "model": "Taos",
       "condition": "used",
-      "price": 42861.0,
+      "price": 26495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Equinox LT - REMOTE START | HEATED SEATS | AWD",
-      "vin": "3GNAXPEG2TL291792",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/cfc10156b72c.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used",
-      "price": 32351.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trailblazer LT - LOW KMS | REMOTE START | AWD",
-      "vin": "KL79MRSL3TB122915",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/287ddf4327fe.html",
+      "name": "2026 Chevrolet Trailblazer LT - REMOTE START | HEATED SEATS | AWD",
+      "vin": "KL79MRSL2TB094900",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/74d73c220000.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Trailblazer",
       "condition": "used",
-      "price": 27998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid TrailSport - REMOTE START | HEATED SEATS | AWD",
-      "vin": "2HKRS6H63TH211312",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/635cca0806a7.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 43984.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid Touring - CLAIM FREE | LOW KMS | ONE OWNER",
-      "vin": "2HKRS6H99TH226844",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/3c2344dde637.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 50227.0,
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -1013,7 +922,18 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "used",
-      "price": 52479.0,
+      "price": 50895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred - REMOTE START | HEATED SEATS | AWD",
+      "vin": "KM8JBCDE1TU451856",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/d3b3b8fa5336.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 31595.0,
       "price_currency": "CAD"
     },
     {
@@ -1024,7 +944,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 46995.0,
+      "price": 44897.0,
       "price_currency": "CAD"
     },
     {
@@ -1044,18 +964,18 @@
       "make": "Volkswagen",
       "model": "Golf GTI",
       "condition": "used",
-      "price": 39995.0,
+      "price": 37795.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Taos Comfortline - REMOTE START | HEATED SEATS | AWD",
-      "vin": "3VVUC7B20TM016881",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/2b747c813fa2.html",
+      "name": "2026 Volkswagen Taos Comfortline - REMOTE START | NAV | AWD",
+      "vin": "3VVUC7B28TM021844",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/0089fb293147.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 30895.0,
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
