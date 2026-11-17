@@ -1,7 +1,7 @@
 {
   "dealership": "Kamloops Honda Cars",
-  "generated_at": "2026-11-16T16:10:54",
-  "vehicle_count": 137,
+  "generated_at": "2026-11-17T05:12:20",
+  "vehicle_count": 135,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -663,17 +663,6 @@
     },
     {
       "name": "2026 Honda Civic Sedan Hybrid Sport",
-      "vin": "2HGFE4F82TH018971",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/e76fc9fee416.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 36580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Hybrid Sport",
       "vin": "2HGFE4F87TH019744",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/abb8a4a1687e.html",
       "year": 2026,
@@ -691,18 +680,7 @@
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "new",
-      "price": 40080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Hybrid Sport",
-      "vin": "2HGFE4F84TH019927",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/b61e31d79e6b.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 36580.0,
+      "price": 40679.0,
       "price_currency": "CAD"
     },
     {
@@ -713,7 +691,7 @@
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "new",
-      "price": 36580.0,
+      "price": 37179.0,
       "price_currency": "CAD"
     },
     {
@@ -724,18 +702,7 @@
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "new",
-      "price": 40080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Hybrid Sport Touring",
-      "vin": "2HGFE4F81TH020596",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/08c2315b9261.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 40080.0,
+      "price": 40679.0,
       "price_currency": "CAD"
     },
     {
@@ -753,17 +720,6 @@
       "name": "2026 Honda Civic Sedan LX",
       "vin": "2HGFE2F23TH118075",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/279d327b950d.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 30820.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan LX",
-      "vin": "2HGFE2F2XTH118249",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/200d9224d831.html",
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
@@ -794,47 +750,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid EX-L",
-      "vin": "2HKRS6H7XTH237737",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/3aed8abf18ff.html",
+      "name": "2026 Honda CR-V LX | PENDING DEAL",
+      "vin": "2HKRS4H20TH118149",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/07cb6268b238.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 49850.0,
+      "price": 40974.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid EX-L",
-      "vin": "2HKRS6H70TH247631",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/25c968fe04aa.html",
+      "name": "2026 Honda CR-V LX | PENDING DEAL",
+      "vin": "2HKRS4H20TH109659",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/9e84fe396af5.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 49300.0,
+      "price": 40974.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Sport",
-      "vin": "2HKRS4H50TH117688",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/851bf39235bc.html",
+      "name": "2026 Honda CR-V LX | PENDING DEAL",
+      "vin": "2HKRS4H2XTH117588",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/d13f0654aa24.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 44525.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Sport",
-      "vin": "2HKRS4H59TH119388",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/ea905050b1db.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 43975.0,
+      "price": 41524.0,
       "price_currency": "CAD"
     },
     {
@@ -846,39 +791,6 @@
       "model": "HR-V",
       "condition": "new",
       "price": 41350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Pilot Black Edition | PENDING DEAL",
-      "vin": "5FNYG1H9XTB505508",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/b64e24a40602.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "new",
-      "price": 69050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Pilot Black Edition | PENDING DEAL",
-      "vin": "5FNYG1H95TB506064",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/478685fb4e93.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "new",
-      "price": 69050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Pilot TrailSport | PENDING DEAL",
-      "vin": "5FNYG1H6XTB506194",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/4b170410f9b8.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "new",
-      "price": 63750.0,
       "price_currency": "CAD"
     },
     {
@@ -912,6 +824,17 @@
       "model": "Ridgeline",
       "condition": "new",
       "price": 59140.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Honda Ridgeline TrailSport | PENDING DEAL",
+      "vin": "5FPYK3F6XTB503221",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/4bd0bf3e9100.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "condition": "new",
+      "price": 59739.0,
       "price_currency": "CAD"
     },
     {
@@ -990,22 +913,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda Civic Sedan Hybrid Sport Touring",
-      "vin": "2HGFE4F90VH000450",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/0867b5fe2415.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new"
-    },
-    {
       "name": "2027 Honda Civic LX",
       "vin": "2HGFE2F24VH100008",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/58893846e2e5.html",
       "year": 2027,
       "make": "Honda",
       "model": "Civic",
-      "condition": "new"
+      "condition": "new",
+      "price": 32069.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic Sport Touring",
+      "vin": "2HGFE4F90VH000450",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/ee9dc00b252c.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 41329.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Honda Civic LX",
@@ -1017,6 +944,28 @@
       "condition": "new"
     },
     {
+      "name": "2027 Honda Civic Sport Touring",
+      "vin": "2HGFE4F94VH000757",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/8a958de290e8.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 41329.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic LX",
+      "vin": "2HGFE2F25VH101121",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/74e07e2e52c0.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 31519.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Honda CR-V Hybrid Sport",
       "vin": "2HKRS6H5XVH200026",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/9b8ce90ca7bd.html",
@@ -1024,7 +973,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 49050.0,
+      "price": 49649.0,
       "price_currency": "CAD"
     },
     {
@@ -1035,7 +984,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 53800.0,
+      "price": 54399.0,
       "price_currency": "CAD"
     },
     {
@@ -1046,7 +995,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 54350.0,
+      "price": 54949.0,
       "price_currency": "CAD"
     },
     {
@@ -1057,7 +1006,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 49050.0,
+      "price": 49649.0,
       "price_currency": "CAD"
     },
     {
@@ -1068,7 +1017,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 53800.0,
+      "price": 54399.0,
       "price_currency": "CAD"
     },
     {
@@ -1079,7 +1028,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 51300.0,
+      "price": 51899.0,
       "price_currency": "CAD"
     },
     {
@@ -1090,18 +1039,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 49800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Hybrid EX-L",
-      "vin": "2HKRS6H74VH201710",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/dc42ca25b1c8.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 50350.0,
+      "price": 51899.0,
       "price_currency": "CAD"
     },
     {
@@ -1112,40 +1050,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 48400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Hybrid TrailSport",
-      "vin": "2HKRS6H62VH202653",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/7abd8c10745d.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 48950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Hybrid Touring | PENDING DEAL",
-      "vin": "2HKRS6H95VH203371",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/02659b403334.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 54350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Hybrid EX-L",
-      "vin": "2HKRS6H73VH203951",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/2c75febcc584.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 51850.0,
+      "price": 50499.0,
       "price_currency": "CAD"
     },
     {
@@ -1156,7 +1061,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 53800.0,
+      "price": 54949.0,
       "price_currency": "CAD"
     },
     {
@@ -1167,7 +1072,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 53800.0,
+      "price": 54399.0,
       "price_currency": "CAD"
     },
     {
@@ -1193,17 +1098,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda CR-V Hybrid EX-L",
-      "vin": "2HKRS6H78VH204836",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/7f47b1f294ad.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 51300.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H94VH205063",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/e869ebdb00ef.html",
@@ -1216,17 +1110,6 @@
     },
     {
       "name": "2027 Honda CR-V Hybrid Touring",
-      "vin": "2HKRS6H96VH204464",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/08d88c19d9cd.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 53800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H9XVH205732",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/0c03eab21199.html",
       "year": 2027,
@@ -1234,28 +1117,6 @@
       "model": "CR-V",
       "condition": "new",
       "price": 53800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Hybrid EX-L",
-      "vin": "2HKRS6H77VH205542",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/d37116a6d4fc.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 51300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Hybrid Sport",
-      "vin": "2HKRS6H54VH205903",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/a4ae35d7b8a1.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 48500.0,
       "price_currency": "CAD"
     },
     {
@@ -1278,6 +1139,61 @@
       "model": "CR-V",
       "condition": "new",
       "price": 50450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid Touring",
+      "vin": "2HKRS6H99VH206158",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/f1e3d154b1c7.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 54949.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid Touring",
+      "vin": "2HKRS6H90VH208400",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/d52125eaf554.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 54399.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid EX-L",
+      "vin": "2HKRS6H71VH208453",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/f414f3ca2e6d.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 52449.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid Touring",
+      "vin": "2HKRS6H98VH208595",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/7f8629b8bfa5.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 54949.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid EX-L | PENDING DEAL",
+      "vin": "2HKRS6H75VH209055",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/55d5dc820971.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 52449.0,
       "price_currency": "CAD"
     },
     {
@@ -1315,17 +1231,6 @@
     },
     {
       "name": "2027 Honda CR-V Sport",
-      "vin": "2HKRS4H59VH102402",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/2350fc6acb2b.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 45975.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Sport",
       "vin": "2HKRS4H56VH102356",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/42d029148ea1.html",
       "year": 2027,
@@ -1333,28 +1238,6 @@
       "model": "CR-V",
       "condition": "new",
       "price": 45975.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Sport | PENDING DEAL",
-      "vin": "2HKRS4H56VH102289",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/3cc2e38be135.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 44475.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Sport | PENDING DEAL",
-      "vin": "2HKRS4H59VH102321",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/efbfdf7ee894.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 44475.0,
       "price_currency": "CAD"
     },
     {
@@ -1377,6 +1260,28 @@
       "model": "CR-V",
       "condition": "new",
       "price": 42375.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Sport",
+      "vin": "2HKRS4H51VH103091",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/1dcf8ad8f6eb.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 46574.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Sport",
+      "vin": "2HKRS4H58VH103265",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/b429e1f26da5.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 47124.0,
       "price_currency": "CAD"
     },
     {
@@ -1468,6 +1373,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Honda HR-V LX | PENDING DEAL",
+      "vin": "3CZRZ2H33VM109171",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/d87e79a59f00.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 36349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda HR-V LX",
+      "vin": "3CZRZ2H36VM109522",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/17a280d45cd9.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 36349.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Honda Odyssey Sport-L",
       "vin": "5FNRL6H72VB500043",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/629b71b110e9.html",
@@ -1490,13 +1417,70 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda Passport TRAILSPORT | PENDING DEAL",
+      "name": "2027 Honda Passport TRAILSPRTE | PENDING DEAL",
       "vin": "5FNYF9H85VB500194",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/eb389e3fe8d0.html",
       "year": 2027,
       "make": "Honda",
       "model": "Passport",
-      "condition": "new"
+      "condition": "new",
+      "price": 65439.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Passport TrailSport",
+      "vin": "5FNYF9H50VB500500",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/6e61684f4448.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Passport",
+      "condition": "new",
+      "price": 61889.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Passport TRAILSPRTE | PENDING DEAL",
+      "vin": "5FNYF9H85VB500227",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/945a5a01bad9.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Passport",
+      "condition": "new",
+      "price": 65439.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Passport TRAILSPRTE | PENDING DEAL",
+      "vin": "5FNYF9H82VB500394",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/a0d69ceb7cea.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Passport",
+      "condition": "new",
+      "price": 65439.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Passport TRAILSPRTE | PENDING DEAL",
+      "vin": "5FNYF9H83VB500355",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/ba29e55de240.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Passport",
+      "condition": "new",
+      "price": 65439.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Passport TRAILSPRTE | PENDING DEAL",
+      "vin": "5FNYF9H84VB500428",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/new/0da903f88d07.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Passport",
+      "condition": "new",
+      "price": 65439.0,
+      "price_currency": "CAD"
     }
   ]
 }
