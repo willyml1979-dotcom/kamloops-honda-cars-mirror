@@ -1,7 +1,7 @@
 {
   "dealership": "Kamloops Honda Cars",
-  "generated_at": "2026-11-17T22:54:54",
-  "vehicle_count": 143,
+  "generated_at": "2026-11-18T04:27:10",
+  "vehicle_count": 145,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -180,6 +180,15 @@
       "condition": "used",
       "price": 26395.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2022 RAM 1500 Laramie",
+      "vin": "1C6SRFJTXNN151391",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/62b3241b233d.html",
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used"
     },
     {
       "name": "2022 Toyota 4Runner TRD OffRoad - CLAIM FREE | REMOTE START | 4X4",
@@ -420,8 +429,17 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 50995.0,
+      "price": 49899.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Toyota Tundra SR",
+      "vin": "5TFKB5DB8RX134559",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/731c52c34ab6.html",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "used"
     },
     {
       "name": "2024 Volkswagen Jetta Sedan Comfortline - REMOTE START | HEATED SEATS | FWD",
@@ -475,7 +493,7 @@
       "make": "Chevrolet",
       "model": "Trailblazer",
       "condition": "used",
-      "price": 28694.0,
+      "price": 27885.0,
       "price_currency": "CAD"
     },
     {
@@ -552,7 +570,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "used",
-      "price": 35995.0,
+      "price": 35775.0,
       "price_currency": "CAD"
     },
     {
@@ -573,7 +591,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Sienna",
-      "condition": "used"
+      "condition": "used",
+      "price": 53995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline - REMOTE START | HEATED SEATS | AWD",
