@@ -1,6 +1,6 @@
 # Kamloops Honda Cars
 
- dealership in Kamloops. AI-readable inventory mirror, about 134 vehicles.
+ dealership in Kamloops. AI-readable inventory mirror, about 143 vehicles.
 
 - Official website: https://www.kamloopshonda.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/
