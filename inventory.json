@@ -1,7 +1,7 @@
 {
   "dealership": "Kamloops Honda Cars",
-  "generated_at": "2026-11-17T05:12:20",
-  "vehicle_count": 135,
+  "generated_at": "2026-11-17T17:35:01",
+  "vehicle_count": 134,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -36,17 +36,6 @@
       "model": "Pilot",
       "condition": "used",
       "price": 33795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Honda Civic Sedan LX - CLAIM FREE | ONE OWNER | MANUAL",
-      "vin": "2HGFC2E51KH025409",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/0bb70a54314a.html",
-      "year": 2019,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 19817.0,
       "price_currency": "CAD"
     },
     {
@@ -138,6 +127,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Kia Seltos EX - CLAIM FREE | REMOTE START | AWD",
+      "vin": "KNDERCAA6M7087050",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/dc9aeb344b09.html",
+      "year": 2021,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 18895.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Chrysler Pacifica Touring L - LOW KMS | REMOTE START | FWD",
       "vin": "2C4RC1BG4NR195533",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/037f73f57b09.html",
@@ -145,7 +145,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 26995.0,
+      "price": 25995.0,
       "price_currency": "CAD"
     },
     {
@@ -156,7 +156,7 @@
       "make": "Honda",
       "model": "Passport",
       "condition": "used",
-      "price": 35995.0,
+      "price": 33995.0,
       "price_currency": "CAD"
     },
     {
@@ -188,7 +188,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "price": 38995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 Chevrolet Silverado 1500 LT - CLAIM FREE | ONE OWNER | 4X4",
@@ -209,7 +211,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 37795.0,
+      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
@@ -253,7 +255,7 @@
       "make": "Honda",
       "model": "Ridgeline",
       "condition": "used",
-      "price": 42995.0,
+      "price": 42495.0,
       "price_currency": "CAD"
     },
     {
@@ -264,7 +266,7 @@
       "make": "Toyota",
       "model": "GR Corolla",
       "condition": "used",
-      "price": 45967.0,
+      "price": 43895.0,
       "price_currency": "CAD"
     },
     {
@@ -297,7 +299,7 @@
       "make": "Cadillac",
       "model": "XT4",
       "condition": "used",
-      "price": 44899.0,
+      "price": 43695.0,
       "price_currency": "CAD"
     },
     {
@@ -330,7 +332,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 30997.0,
+      "price": 29799.0,
       "price_currency": "CAD"
     },
     {
@@ -341,7 +343,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 26895.0,
+      "price": 24895.0,
       "price_currency": "CAD"
     },
     {
@@ -374,7 +376,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 21899.0,
+      "price": 20795.0,
       "price_currency": "CAD"
     },
     {
@@ -506,7 +508,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 47995.0,
+      "price": 44994.0,
       "price_currency": "CAD"
     },
     {
@@ -539,7 +541,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "used",
-      "price": 40895.0,
+      "price": 38989.0,
       "price_currency": "CAD"
     },
     {
@@ -562,17 +564,6 @@
       "model": "Outlander",
       "condition": "used",
       "price": 28699.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Rogue S - REMOTE START | HEATED STEERING WHEEL | AWD",
-      "vin": "JN8BT3AB5SW172322",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/81f96fe263c9.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -877,7 +868,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "price": 27775.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Volkswagen Golf GTI GTI - NAV | HEATED SEATS | FWD",
