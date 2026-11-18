@@ -1,7 +1,7 @@
 {
   "dealership": "Kamloops Honda Cars",
-  "generated_at": "2026-11-18T08:20:38",
-  "vehicle_count": 145,
+  "generated_at": "2026-11-18T13:05:37",
+  "vehicle_count": 151,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -15,6 +15,15 @@
       "condition": "used",
       "price": 14995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Chevrolet Silverado 1500 LT - V8 | BENCH SEATS | 4X4",
+      "vin": "1GCVKREC0FZ196629",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/e944fee3cff2.html",
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "used"
     },
     {
       "name": "2017 Nissan Rogue SV - REMOTE START | HEATED SEATS | AWD",
@@ -182,9 +191,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 Laramie",
+      "name": "2022 RAM 1500 Laramie - REMOTE START | NAV | 4X4",
       "vin": "1C6SRFJTXNN151391",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/62b3241b233d.html",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/35df421cd2c0.html",
       "year": 2022,
       "make": "RAM",
       "model": "1500",
@@ -345,6 +354,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Hyundai Kona Preferred - REMOTE START | HEATED STEERING WHEEL | AWD",
+      "vin": "KM8HBCAB5RU127911",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/b1368256c0cb.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used"
+    },
+    {
       "name": "2024 Mazda Mazda3 Sedan GT w/Turbo - REMOTE START | NAV | AWD",
       "vin": "JM1BPBDY0R1658148",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/5f4bcae6a858.html",
@@ -433,9 +451,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota Tundra SR",
+      "name": "2024 Toyota Tundra SR - TOWING | SMART-DEVICE INTEGRATION | 4X4",
       "vin": "5TFKB5DB8RX134559",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/731c52c34ab6.html",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/89ab99f0e795.html",
       "year": 2024,
       "make": "Toyota",
       "model": "Tundra",
@@ -462,6 +480,15 @@
       "condition": "used",
       "price": 26995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Volkswagen Tiguan Comfortline - REMOTE START | HEATED STEERING WHEEL | AWD",
+      "vin": "3VV2B7AX8RM104450",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/4282979d38b8.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used"
     },
     {
       "name": "2025 Acura Integra Elite A-Spec - REMOTE START | SUNROOF | FWD",
@@ -541,6 +568,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Mazda CX-5 GS - REMOTE START | HEATED STEERING WHEEL | AWD",
+      "vin": "JM3KFBCL7S0742897",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/d566ed9ea33d.html",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used"
+    },
+    {
       "name": "2025 Mazda CX-70 MHEV GT - REMOTE START | NAV | AWD",
       "vin": "JM3KJDHD2S1122027",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/fbbd0f17f9f9.html",
@@ -585,6 +621,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Nissan Kicks Play SV - REMOTE START | HEATED STEERING WHEEL | FWD",
+      "vin": "3N1CP5CV9SL476558",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/aa955a80bcae.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used"
+    },
+    {
       "name": "2025 Toyota Sienna XLE - REMOTE START | SUNROOF | FWD",
       "vin": "5TDGRKEC5SS281215",
       "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/5432f8d8ca11.html",
@@ -594,6 +639,15 @@
       "condition": "used",
       "price": 53995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Atlas Comfortline - REMOTE START | HEATED STEERING WHEEL | AWD",
+      "vin": "1V2LR2CA5SC549910",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-honda-cars-mirror/used/e48596f40335.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "used"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline - REMOTE START | HEATED SEATS | AWD",
